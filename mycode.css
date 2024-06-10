@@ -1,0 +1,30 @@
+body {
+    background-color:springgreen;
+}
+
+head{
+    background-color:black;
+}
+
+#para1 {
+    text-align: center;
+    color:purple;
+}
+
+#para2 {
+    text-align: right;
+    color:navy;
+}
+
+#para3 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 75px;
+    background-color:rgb(44, 153, 248);
+} 
+
+#para4 {
+    background-color:mediumvioletred;
+    font-size: 200%;
+} 
+
